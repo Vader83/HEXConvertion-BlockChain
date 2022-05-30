@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HEXConvertion", "HEXConvertion\HEXConvertion.csproj", "{08D7C7C8-614C-4B15-9A72-54C0B1630BCA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08D7C7C8-614C-4B15-9A72-54C0B1630BCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08D7C7C8-614C-4B15-9A72-54C0B1630BCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08D7C7C8-614C-4B15-9A72-54C0B1630BCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08D7C7C8-614C-4B15-9A72-54C0B1630BCA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3141FB5-DEFE-4B75-A48E-6F894C2EC5D2}
+	EndGlobalSection
+EndGlobal
